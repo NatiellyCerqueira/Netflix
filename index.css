@@ -27,8 +27,7 @@
     color: #fff;
 }
 .font-size_43px{
-    font-size: 43px;
-    
+    font-size: 43px; 
 }
 .display_flex{
     display: flex;
@@ -74,10 +73,15 @@
 .margin-bottom_126px{
     margin-bottom: 126px;
 }
-
-
-
-
+.display_block{
+    display: block;
+}
+.line-height_48px{
+    line-height: 48px;
+}
+.margin-left_45px{
+    margin-left: 45px;
+}
 
 
 
