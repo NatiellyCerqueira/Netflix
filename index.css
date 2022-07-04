@@ -1,6 +1,16 @@
 .background_black{
     background:rgb(7, 3, 3);
 }
+
+.center{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.text-align{
+    text-align: center;
+}
 .width_98px{
     width: 98px;
 }
@@ -82,9 +92,22 @@
 .margin-left_45px{
     margin-left: 45px;
 }
+.border_width-1px{
+    border-width: 1px;
+}
+.border_style-solid{
+    border-style: solid;
+}
+.border_color-grey{
+    border-color: grey;
+}
 
-
-
+.fill_grey{
+    fill: grey;
+}
+.width-15px{
+    width: 15px;
+}
 
 
 
